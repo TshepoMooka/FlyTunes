@@ -805,7 +805,7 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Xamarin.Essentials": "1.3.1",
-          "Xamarin.Forms": "4.4.0.991210-pre2"
+          "Xamarin.Forms": "4.3.0.991211"
         },
         "compile": {
           "bin/placeholder/flytunes.dll": {}
@@ -1917,11 +1917,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Xamarin\\flytunesSln\\flytunes\\flytunes.Android\\flytunes.Android.csproj",
+      "projectUniqueName": "C:\\Xamarin\\FlyTunes\\flytunes\\flytunes.Android\\flytunes.Android.csproj",
       "projectName": "flytunes.Android",
-      "projectPath": "C:\\Xamarin\\flytunesSln\\flytunes\\flytunes.Android\\flytunes.Android.csproj",
+      "projectPath": "C:\\Xamarin\\FlyTunes\\flytunes\\flytunes.Android\\flytunes.Android.csproj",
       "packagesPath": "C:\\Users\\Tshepo.Levy\\.nuget\\packages\\",
-      "outputPath": "C:\\Xamarin\\flytunesSln\\flytunes\\flytunes.Android\\obj\\",
+      "outputPath": "C:\\Xamarin\\FlyTunes\\flytunes\\flytunes.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1942,8 +1942,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Xamarin\\flytunesSln\\flytunes\\flytunes\\flytunes.csproj": {
-              "projectPath": "C:\\Xamarin\\flytunesSln\\flytunes\\flytunes\\flytunes.csproj"
+            "C:\\Xamarin\\FlyTunes\\flytunes\\flytunes\\flytunes.csproj": {
+              "projectPath": "C:\\Xamarin\\FlyTunes\\flytunes\\flytunes\\flytunes.csproj"
             }
           }
         }
@@ -1983,7 +1983,7 @@
       "code": "NU1605",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Detected package downgrade: Xamarin.Forms from 4.4.0.991210-pre2 to 4.2.0.709249. Reference the package directly from the project to select a different version. \r\n flytunes.Android -> flytunes -> Xamarin.Forms (>= 4.4.0.991210-pre2) \r\n flytunes.Android -> Xamarin.Forms (>= 4.2.0.709249)",
+      "message": "Detected package downgrade: Xamarin.Forms from 4.3.0.991211 to 4.2.0.709249. Reference the package directly from the project to select a different version. \r\n flytunes.Android -> flytunes -> Xamarin.Forms (>= 4.3.0.991211) \r\n flytunes.Android -> Xamarin.Forms (>= 4.2.0.709249)",
       "libraryId": "Xamarin.Forms",
       "targetGraphs": [
         "MonoAndroid,Version=v9.0"

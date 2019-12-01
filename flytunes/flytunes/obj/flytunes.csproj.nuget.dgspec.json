@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Xamarin\\flytunesSln\\flytunes\\flytunes\\flytunes.csproj": {}
+    "C:\\Xamarin\\FlyTunes\\flytunes\\flytunes\\flytunes.csproj": {}
   },
   "projects": {
-    "C:\\Xamarin\\flytunesSln\\flytunes\\flytunes\\flytunes.csproj": {
+    "C:\\Xamarin\\FlyTunes\\flytunes\\flytunes\\flytunes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Xamarin\\flytunesSln\\flytunes\\flytunes\\flytunes.csproj",
+        "projectUniqueName": "C:\\Xamarin\\FlyTunes\\flytunes\\flytunes\\flytunes.csproj",
         "projectName": "flytunes",
-        "projectPath": "C:\\Xamarin\\flytunesSln\\flytunes\\flytunes\\flytunes.csproj",
+        "projectPath": "C:\\Xamarin\\FlyTunes\\flytunes\\flytunes\\flytunes.csproj",
         "packagesPath": "C:\\Users\\Tshepo.Levy\\.nuget\\packages\\",
-        "outputPath": "C:\\Xamarin\\flytunesSln\\flytunes\\flytunes\\obj\\",
+        "outputPath": "C:\\Xamarin\\FlyTunes\\flytunes\\flytunes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -55,7 +55,7 @@
             },
             "Xamarin.Forms": {
               "target": "Package",
-              "version": "[4.4.0.991210-pre2, )"
+              "version": "[4.3.0.991211, )"
             }
           },
           "imports": [
