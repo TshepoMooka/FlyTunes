@@ -1,0 +1,13 @@
+C:\Xamarin\flytunesSln\flytunes\flytunes\bin\Debug\netstandard2.0\flytunes.deps.json
+C:\Xamarin\flytunesSln\flytunes\flytunes\bin\Debug\netstandard2.0\flytunes.dll
+C:\Xamarin\flytunesSln\flytunes\flytunes\bin\Debug\netstandard2.0\ref\flytunes.dll
+C:\Xamarin\flytunesSln\flytunes\flytunes\bin\Debug\netstandard2.0\flytunes.pdb
+C:\Xamarin\flytunesSln\flytunes\flytunes\obj\Debug\netstandard2.0\flytunes.csprojAssemblyReference.cache
+C:\Xamarin\flytunesSln\flytunes\flytunes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin\flytunesSln\flytunes\flytunes\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Xamarin\flytunesSln\flytunes\flytunes\obj\Debug\netstandard2.0\flytunes.AssemblyInfoInputs.cache
+C:\Xamarin\flytunesSln\flytunes\flytunes\obj\Debug\netstandard2.0\flytunes.AssemblyInfo.cs
+C:\Xamarin\flytunesSln\flytunes\flytunes\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin\flytunesSln\flytunes\flytunes\obj\Debug\netstandard2.0\flytunes.dll
+C:\Xamarin\flytunesSln\flytunes\flytunes\obj\Debug\netstandard2.0\ref\flytunes.dll
+C:\Xamarin\flytunesSln\flytunes\flytunes\obj\Debug\netstandard2.0\flytunes.pdb
