@@ -29,11 +29,13 @@ LinearLayout;C:\Users\Kolosa\source\repos\FlyTunes\FlyTunes\FlyTunes.Android\obj
 paths;C:\Users\Kolosa\source\repos\FlyTunes\FlyTunes\FlyTunes.Android\obj\Debug\90\lp\44\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 paths;obj\Debug\90\res\xml\file_paths.xml
 resources;C:\Users\Kolosa\source\repos\FlyTunes\FlyTunes\FlyTunes.Android\obj\Debug\90\lp\46\jl\res\values\styles.xml
+resources;obj\Debug\90\res\values\strings.xml
 resources;obj\Debug\90\res\values\styles.xml
 set;C:\Users\Kolosa\source\repos\FlyTunes\FlyTunes\FlyTunes.Android\obj\Debug\90\lp\46\jl\res\anim\enterfromleft.xml
 set;C:\Users\Kolosa\source\repos\FlyTunes\FlyTunes\FlyTunes.Android\obj\Debug\90\lp\46\jl\res\anim\enterfromright.xml
 set;C:\Users\Kolosa\source\repos\FlyTunes\FlyTunes\FlyTunes.Android\obj\Debug\90\lp\46\jl\res\anim\exittoleft.xml
 set;C:\Users\Kolosa\source\repos\FlyTunes\FlyTunes\FlyTunes.Android\obj\Debug\90\lp\46\jl\res\anim\exittoright.xml
+string;obj\Debug\90\res\values\strings.xml
 style;C:\Users\Kolosa\source\repos\FlyTunes\FlyTunes\FlyTunes.Android\obj\Debug\90\lp\46\jl\res\values\styles.xml
 style;obj\Debug\90\res\values\styles.xml
 translate;C:\Users\Kolosa\source\repos\FlyTunes\FlyTunes\FlyTunes.Android\obj\Debug\90\lp\46\jl\res\anim\enterfromleft.xml
