@@ -43,8 +43,8 @@ mono_aot_mode_name:
 	.section	.rodata..L.str.4,"aMS",@progbits,1
 	.type	.L.str.4, @object
 .L.str.4:
-	.asciz	"major=marksweep-conc"
-	.size	.L.str.4, 21
+	.asciz	"major=marksweep"
+	.size	.L.str.4, 16
 	.section	.rodata..L.str.5,"aMS",@progbits,1
 	.type	.L.str.5, @object
 .L.str.5:
@@ -63,7 +63,7 @@ mono_aot_mode_name:
 	.section	.rodata..L.str.8,"aMS",@progbits,1
 	.type	.L.str.8, @object
 .L.str.8:
-	.asciz	"c16f988a-0f76-4c61-b871-4abc67db1936"
+	.asciz	"d7213301-b6a0-4e9b-a637-f598b94c36cd"
 	.size	.L.str.8, 37
 	.section	.rodata..L.str.9,"aMS",@progbits,1
 	.type	.L.str.9, @object
@@ -73,8 +73,8 @@ mono_aot_mode_name:
 	.section	.rodata..L.str.10,"aMS",@progbits,1
 	.type	.L.str.10, @object
 .L.str.10:
-	.asciz	"Xamarin.Android.Net.AndroidClientHandler"
-	.size	.L.str.10, 41
+	.asciz	"System.Net.Http.HttpClientHandler, System.Net.Http"
+	.size	.L.str.10, 51
 	.section	.rodata..L.str.11,"aMS",@progbits,1
 	.type	.L.str.11, @object
 .L.str.11:

@@ -5,7 +5,7 @@ using System.Linq;
 using Foundation;
 using UIKit;
 
-namespace flytunes.iOS
+namespace FlyTunes.iOS
 {
     public class Application
     {

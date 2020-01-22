@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:prism="http://prismlibrary.com"
+             prism:ViewModelLocator.AutowireViewModel="True"
+             x:Class="FlyTunes.Views.LoginView"
+             BackgroundColor="#06d19c">
+
+
+    <ContentPage.Content>
+
+        <ScrollView>
+
+
+            <StackLayout>
+                <StackLayout Margin="20"  Grid.Row="0">
+                    <Label HorizontalOptions="Center" FontSize="30" TextColor="#fff" Text="SignIn To FlyTunes" />
+                </StackLayout>
+
+
+                <StackLayout Margin="20" Grid.Row="1">
+                    <Entry Placeholder="Username / Email" FontSize="Body" TextColor="#fff" PlaceholderColor="#fff"/>
+                </StackLayout>
+                <StackLayout Margin="20" Grid.Row="2">
+                    <Entry Placeholder="Password" FontSize="Body" TextColor="#fff" PlaceholderColor="#fff"/>
+                </StackLayout>
+
+                <StackLayout Grid.Row="4">
+                    <Button Text="Login" Command="{Binding LoginCommand}" HorizontalOptions="CenterAndExpand" BackgroundColor="#fff"/>
+                </StackLayout>
+
+
+             
+
+            </StackLayout>
+
+        </ScrollView>
+
+
+    </ContentPage.Content>
+</ContentPage>
